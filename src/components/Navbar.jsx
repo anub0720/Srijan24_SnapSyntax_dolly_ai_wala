@@ -126,8 +126,8 @@ function ResponsiveAppBar() {
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open settings">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-               LET'S CONNECT albal@gmail.com
-              </IconButton>
+               LET'S CONNECT jenny@gmail.com
+           </IconButton>
             </Tooltip>
             <Menu
               sx={{ mt: '45px' }}
